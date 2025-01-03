@@ -80,13 +80,6 @@
 - **CloudSploit**: Tools untuk scanning konfigurasi cloud.
 - **Prisma Cloud**: Platform untuk cloud security posture management.
 
-# Tips
-- Pelajari tools berdasarkan kasus yang relevan dengan proyek atau pekerjaanmu.
-- Latih kemampuanmu di environment yang aman, seperti lab virtual atau VM.
-- Selalu gunakan tools ini secara etis dan sesuai hukum yang berlaku.
-
-# Cyber Security Tools List
-
 ## 11. Attack Tools
 - **Metasploit**: Framework eksploitasi untuk serangan penetrasi.
 - **Aircrack-ng**: Tools untuk menyerang jaringan Wi-Fi (misalnya WEP, WPA).
@@ -115,3 +108,6 @@
 ## Tips
 - **Untuk Attack**: Gunakan tools ini hanya untuk tujuan pembelajaran, penelitian, atau dengan izin eksplisit dari pihak terkait.
 - **Untuk Defense**: Pastikan environment selalu diperbarui dan tools defense dioptimalkan untuk melawan ancaman terbaru.
+- Pelajari tools berdasarkan kasus yang relevan dengan proyek atau pekerjaanmu.
+- Latih kemampuanmu di environment yang aman, seperti lab virtual atau VM.
+- Selalu gunakan tools ini secara etis dan sesuai hukum yang berlaku.
