@@ -111,3 +111,5 @@
 - Pelajari tools berdasarkan kasus yang relevan dengan proyek atau pekerjaanmu.
 - Latih kemampuanmu di environment yang aman, seperti lab virtual atau VM.
 - Selalu gunakan tools ini secara etis dan sesuai hukum yang berlaku.
+
+  @frhndevweb
